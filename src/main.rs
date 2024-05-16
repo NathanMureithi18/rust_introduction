@@ -6,7 +6,7 @@ fn main() {
     let is_over_18:bool = false;
 
 
-    // println!("x = {}, y = {}, z = {}" ,x,y,z);
+    println!("x = {}, y = {}, z = {}" ,x,y,z);
 
     if is_male{
         println!("You are a male ")
@@ -21,4 +21,5 @@ fn main() {
     }
 
 }
+
 
